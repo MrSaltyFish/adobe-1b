@@ -82,6 +82,15 @@ docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --networ
   "persona": { "role": "UX Researcher" },
   "job_to_be_done": { "task": "Find accessibility issues in user flows" },
   "challenge_info": { "challenge_id": "1B", "team": "SegFault" }
-  "
+  "documents": [
+        {
+            "filename": "South of France - Cities.pdf",
+            "title": "South of France - Cities"
+        },
+        {
+            "filename": "South of France - Cuisine.pdf",
+            "title": "South of France - Cuisine"
+        }
+  ]
 }
 ```
