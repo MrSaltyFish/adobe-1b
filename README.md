@@ -57,7 +57,6 @@ This builds a container image with all dependencies and models preloaded, ensuri
 docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --network none pdf_insight_extractor:abcd1234
 ```
 
-network none mysolutionname:somerandomidentifier
 > Replace `$(pwd)/input` with the path to your PDF collection directory if different.
 
 ---
