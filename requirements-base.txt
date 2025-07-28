@@ -1,0 +1,7 @@
+sentence_transformers
+llama_cpp_python
+torch
+scikit-learn
+numpy
+pymupdf
+langchain
